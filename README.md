@@ -1,5 +1,5 @@
 # Alias Creation Script
->>>>>>> mainly for lazy personal use
+
 
 ## Description
 
